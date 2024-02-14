@@ -1,5 +1,5 @@
 # 💫 About Me:
-const Rafa = {<br>  pronouns: "she" | "her",<br>  code: [Javascript, Typescript, HTML, CSS],<br>  tools: [React, Node,],<br><br> currentGoal: "As a student build a software which is efficient and delivers real value to the customer, <br>through a project I am actually doing about geolocation."<br>}
+const Rafa = {<br>  pronouns: "she" | "her",<br>  code: [Javascript, Typescript, HTML, CSS],<br>  tools: [React, Node,],<br><br> currentGoal: "As a student build a software which is efficient and delivers real value to the customer, <br>through a project I am actually doing about geolocation. Also looking for good professional opportunities to develop my career."<br>}
 
 
 ## 🌐 Socials:
