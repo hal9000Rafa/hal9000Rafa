@@ -1,5 +1,5 @@
 # 💫 About Me:
-const Rafa = {<br>  pronouns: "she" | "her",<br>  code: [Javascript, Typescript, HTML, CSS],<br>  tools: [React, Node,],<br><br> 
+const Rafa = {<br>  pronouns: "she" | "her",<br>  code: [Javascript, Typescript, HTML, CSS],<br>  tools: [React, Node],<br><br> 
 
 
 ## 🌐 Socials:
