@@ -1,5 +1,15 @@
 # 💫 About Me:
-const Rafa = {<br>  pronouns: "she" | "her",<br>  code: [Javascript, Typescript, HTML, CSS],<br>  tools: [React, Node],<br><br> 
+const name = "Rafaela";
+const title = "Aspiring Developer & Agile Enthusiast";
+const experience = "Experienced in optimizing operations and fostering partnerships";
+const education = "Currently pursuing a degree in Systems Analysis and Development";
+
+console.log(`Hello, I'm ${name}, ${title}. Let me share my story with you:`);
+console.log("");
+
+console.log("I'm passionate about technology and committed to learning and growth. Let's innovate together!");
+
+
 
 
 ## 🌐 Socials:
